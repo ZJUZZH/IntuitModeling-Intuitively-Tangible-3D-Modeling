@@ -1,2 +1,2 @@
 # IntuitModeling-Intuitively-Tangible-3D-Modeling
-Coming soon.
+Project code coming soon.
