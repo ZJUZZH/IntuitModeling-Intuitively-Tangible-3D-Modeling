@@ -1,9 +1,9 @@
-使用方法：
+Usage Instructions:
 
-1、使用arduino IDE 进行程序烧录
+Use the Arduino IDE to upload the program.
 
-2、主节点（master）使用官方arduino nano 33 ble（其他包含硬件IIC接口的Arduino均可），烧录Master程序；
+For the master node, use the official Arduino Nano 33 BLE (or any Arduino board with hardware I2C interface) and upload the Master program.
 
-3、子节点（slave）使用arduino atmega328p芯片，使用USBtinyISP下载器 + 3P双排1.25间距测试烧录夹烧录程序，Arduino IDE中开发板选项请安装MiniCore库，安装之后Clock选择external 8MHz，第一次使用先选择烧录Bootloader，正常烧录程序时选择“使用编程器上传”；
+For the slave node, use an Arduino ATmega328P chip. Use a USBtinyISP downloader with a 3P dual-row 1.25mm pitch test clip to upload the program. In the Arduino IDE, under the board options, install the MiniCore library. After installation, set the clock to "external 8MHz". When using the board for the first time, select "Burn Bootloader" first, and for regular uploads, choose "Upload Using Programmer".
 
-4、先烧录校准代码[Calibration_mpu6050toEEPROM.ino]至子节点中，将IMU放置在水平面进行校准，当子节点的LED进入快闪状态时表明校准完成，校准数据将自动保存至芯片EEPROM中。然后烧录[Slave.ino]程序即可；
+First, upload the calibration code [Calibration_mpu6050toEEPROM.ino] to the slave node. Place the IMU on a flat surface for calibration. When the slave node's LED starts blinking rapidly, calibration is complete, and the data is saved automatically to the chip's EEPROM. Then, upload the [Slave.ino] program.
