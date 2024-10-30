@@ -1,1 +1,9 @@
-readme
+The unity project of the IntuiModeling system can be downloaded in Google Drive : 
+https://drive.google.com/file/d/1wB3h7rAWmjiLRsc9cwhcFxAsZYBFERuo/view?usp=sharing
+
+System requirements：
+1. Windows
+2. Unity 2020.3.36f1c1
+3. RhinoCommon API： compute.rhino3d-7.x 
+note: if you do not install the local RhinoCommon server (refer: https://developer.rhino3d.com/guides/compute/development/), please run compute.geometry.exe directly ("YOU_PROJECT_DIRECTORY\rapid3D\compute.rhino3d-7.x\src\bin\Debug\compute.geometry\compute.geometry.exe")
+4. python package: pip3 install pyserial
