@@ -2,11 +2,11 @@
 
 <div align="center">
   <img src="Unity/gif/cone.gif" width="250" alt="Cone">
-  <img src="Unity/gif/cube.gif" width="250" alt="Cube">
+  <img src="Unity/gif/curve.gif" width="250" alt="Cube">
   <img src="Unity/gif/surface.gif" width="250" alt="Surface">
 </div>
 <div align="center">
-  <img src="Unity/gif/curve.gif" width="250" alt="Curve">
+  <img src="Unity/gif/cube.gif" width="250" alt="Curve">
   <img src="Unity/gif/cylinder.gif" width="250" alt="Cylinder">
 </div>
 
