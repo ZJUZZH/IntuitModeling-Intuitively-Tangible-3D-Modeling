@@ -5,6 +5,7 @@
   <img src="Unity/img/GUI.jpg" width="400" alt="The software user interface of IntuitModeling">
 </div>
 
+
 **IntuitModeling** is a tangible 3D modeling system designed to help novices and non-expert users create complex 3D models with ease and intuition. This project addresses key challenges in the human-computer interaction (HCI) field, enabling users to intuitively design intricate models with minimal learning curve.
 
 ## Overview
