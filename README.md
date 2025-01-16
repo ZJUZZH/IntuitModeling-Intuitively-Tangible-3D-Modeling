@@ -1,5 +1,14 @@
 # IntuitModeling: Intuitively Tangible 3D Modeling System
 
+<!-- 插入5个GIF动图，按适当的排版顺序 -->
+<div align="center">
+    <img src="Unity/gif/cone.gif" alt="Cone" width="300" />
+    <img src="Unity/gif/cube.gif" alt="Cube" width="300" />
+    <img src="Unity/gif/surface.gif" alt="Surface" width="300" />
+    <img src="Unity/gif/curve.gif" alt="Curve" width="300" />
+    <img src="Unity/gif/cylinder.gif" alt="Cylinder" width="300" />
+</div>
+
 **IntuitModeling** is a tangible 3D modeling system designed to help novices and non-expert users create complex 3D models with ease and intuition. This project addresses key challenges in the human-computer interaction (HCI) field, enabling users to intuitively design intricate models with minimal learning curve.
 
 ## Overview
