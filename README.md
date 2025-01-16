@@ -2,11 +2,11 @@
 
 <!-- 插入5个GIF动图，按适当的排版顺序 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/main/Unity/gif/cone.gif" alt="Cone" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/main/Unity/gif/cube.gif" alt="Cube" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/main/Unity/gif/surface.gif" alt="Surface" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/main/Unity/gif/curve.gif" alt="Curve" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/main/Unity/gif/cylinder.gif" alt="Cylinder" width="300" />
+    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cone.gif" alt="Cone" width="300" />
+    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cube.gif" alt="Cube" width="300" />
+    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/surface.gif" alt="Surface" width="300" />
+    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/curve.gif" alt="Curve" width="300" />
+    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cylinder.gif" alt="Cylinder" width="300" />
 </div>
 
 
