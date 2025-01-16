@@ -16,6 +16,10 @@
 
 IntuitModeling combines flexible, deformable interaction components with a network of embedded IMU sensors, allowing real-time digital reconstruction of physical shapes into 3D models. Users manipulate these components by hand, naturally creating complex surface structures and basic geometric forms, which the system captures and translates directly into digital form. 
 
+<div align="center">
+  <img src="Unity/img/Usage_scenario_of_IntuitModeling.jpg" width="500" alt="Usage scenario of IntuitModeling">
+</div>
+
 ### Key Features
 
 - **Flexible, Self-Shape-Sensing Components**: Our modeling system uses a set of deformable components in basic geometric forms, each embedded with IMU sensors to track and reconstruct shape changes in real-time.
