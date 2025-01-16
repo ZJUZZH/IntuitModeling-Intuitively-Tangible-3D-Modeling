@@ -1,6 +1,14 @@
 # IntuitModeling: Intuitively Tangible 3D Modeling System
-![image](https://github.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/blob/650201e7f2917314c729f32de3270fd95abc5287/main/Unity/gif/cone.gif)
 
+<div align="center">
+  <img src="Unity/gif/cone.gif" width="200" alt="Cone">
+  <img src="Unity/gif/cube.gif" width="200" alt="Cube">
+  <img src="Unity/gif/surface.gif" width="200" alt="Surface">
+</div>
+<div align="center">
+  <img src="Unity/gif/curve.gif" width="200" alt="Curve">
+  <img src="Unity/gif/cylinder.gif" width="200" alt="Cylinder">
+</div>
 
 **IntuitModeling** is a tangible 3D modeling system designed to help novices and non-expert users create complex 3D models with ease and intuition. This project addresses key challenges in the human-computer interaction (HCI) field, enabling users to intuitively design intricate models with minimal learning curve.
 
@@ -23,3 +31,4 @@ Through hands-on manipulation, users can generate various 3D forms without exten
 - Explore the flexible components and experiment with shaping and deforming them.
 - Watch the real-time transformation of physical changes into digital 3D models.
 - Use the custom design pipeline to experiment with new forms and designs.
+
