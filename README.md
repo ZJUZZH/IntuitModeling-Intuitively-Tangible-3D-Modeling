@@ -1,12 +1,37 @@
 # IntuitModeling: Intuitively Tangible 3D Modeling System
 
-<!-- 插入5个GIF动图，按适当的排版顺序 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cone.gif" alt="Cone" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cube.gif" alt="Cube" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/surface.gif" alt="Surface" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/curve.gif" alt="Curve" width="300" />
-    <img src="https://raw.githubusercontent.com/ZJUZZH/IntuitModeling-Intuitively-Tangible-3D-Modeling/Unity/gif/cylinder.gif" alt="Cylinder" width="300" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="Unity/gif/cone.gif" width="280px">
+      <br/>
+      <em>Cone Modeling</em>
+    </td>
+    <td align="center">
+      <img src="Unity/gif/cube.gif" width="280px">
+      <br/>
+      <em>Cube Modeling</em>
+    </td>
+    <td align="center">
+      <img src="Unity/gif/cylinder.gif" width="280px">
+      <br/>
+      <em>Cylinder Modeling</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Unity/gif/surface.gif" width="280px">
+      <br/>
+      <em>Surface Modeling</em>
+    </td>
+    <td align="center">
+      <img src="Unity/gif/curve.gif" width="280px">
+      <br/>
+      <em>Curve Modeling</em>
+    </td>
+  </tr>
+</table>
 </div>
 
 
